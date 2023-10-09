@@ -15,7 +15,7 @@ namespace Tyuiu.BrovinaYV.Sprint2.Task5.V14.Lib
 
             int FindDayName = (day + d - 1) % 7 + 1;
 
-           // int FindDayName = (d + k - 2) % 7 + 1;
+          
             string res;
 
             switch (FindDayName)
